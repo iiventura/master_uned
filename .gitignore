@@ -1,9 +1,7 @@
-
+#Permanetly Ignored
 **/**/**/Entorno/
 **/**/**/Exámenes/
 **/**/**/Teoría/
-
-
 
 
 TP1.pdf
@@ -13,6 +11,7 @@ TP4.pdf
 
 *.zip
 *.rar
+*.tar.gz
 
 # Requires a future updates
 2022-2023
